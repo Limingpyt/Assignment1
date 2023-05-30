@@ -1,0 +1,145 @@
+commit a46911c2ea21bebd9a6094a77d71ef63eda096ff
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 12:15:01 2023 +0100
+
+    added file
+
+commit 6a3e7ba280e1ddf170fef280ea4242a485f85485
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:59:20 2023 +0100
+
+    Revert "deleted one repeated chorus line"
+    
+    This reverts commit 713d0b77ab1ac235c9e08defac3269bdc2ff05e3.
+
+commit 713d0b77ab1ac235c9e08defac3269bdc2ff05e3
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:17:05 2023 +0100
+
+    deleted one repeated chorus line
+
+commit cb03de8a360664f4fdb72e1750ae467fdd731419
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:15:35 2023 +0100
+
+    replaced chorus
+
+commit b259d8ba3980156249a5fffd168ead1f776c1a77
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:11:56 2023 +0100
+
+    replaced lyrics with file name
+
+commit a79c343bc80a3db131e1cc8b9d7434ddbea7d9a4
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:08:02 2023 +0100
+
+    added Verse 12
+
+commit 2c074c3034bd4570c990e6a98ad3247bd95da704
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:07:42 2023 +0100
+
+    added verse 11
+
+commit 552eccc14cca7de6915eff31ed1c032c5c41391a
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:04:43 2023 +0100
+
+    added verse 10
+
+commit cd02bcf1cd660c11f984696368508830bc33b5dd
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:04:21 2023 +0100
+
+    added verse 9
+
+commit c1856be1090bc38a839359207c35c1c1577bb6cd
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 11:04:01 2023 +0100
+
+    added verse 8
+
+commit 80c3e579b34f247082f3c2d17b9cc822ce121fa1
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:55:27 2023 +0100
+
+    added verse 7
+
+commit 610b7eb958ec1586acff2cef96d692d4cdbbdeea
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:44:07 2023 +0100
+
+    added chorus 6
+
+commit 34f551176bb454a9b58266d6b950f10422bc6254
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:43:50 2023 +0100
+
+    added chorus 5
+
+commit 6616934e754ba60239ecc43c8aeeac355b3975c2
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:43:20 2023 +0100
+
+    added chorus 4
+
+commit 4551e9eb9a473dabade39b7368a433638fdcef7c
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:42:45 2023 +0100
+
+    added chorus 3
+
+commit 1800abb9f194d074472ed4a900454bf3e6330bda
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:42:21 2023 +0100
+
+    added chorus 2
+
+commit f022c40c81037379977188098b009537ef27ed20
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:40:34 2023 +0100
+
+    added chorus 1 file
+
+commit 6303745c11e9daa2bd62b36f28331e50af1fe669
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:39:58 2023 +0100
+
+    added file
+
+commit 5ca2051478783e674deeaf7750214354f71409f4
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:39:39 2023 +0100
+
+    added file
+
+commit b431c14d98d0d675e7335da7c76d46d744c1d2ff
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:39:16 2023 +0100
+
+    added new file
+
+commit ae228a6a1a806921fa7b2f94033f5bfa090e4d94
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:38:45 2023 +0100
+
+    added new file
+
+commit 3bea02ce705f32072b64ca5df7d4c9eadaaf104c
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:38:16 2023 +0100
+
+    added new file
+
+commit 3b7612f1bda58cf2d90069b8a1b2b260b8e1370b
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:30:06 2023 +0100
+
+    added new file
+
+commit 6533e5f7a696a33b1fbcb9c0121753de57227a3b
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 30 10:18:52 2023 +0100
+
+    added new file
